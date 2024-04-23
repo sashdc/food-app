@@ -14,7 +14,9 @@ export default function Navbar() {
         <Link href="/menu">
           Menu
         </Link>
-
+        <Link href="/random">
+          Random
+        </Link>
       </ul>
     </nav>
   );
